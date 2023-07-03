@@ -143,7 +143,7 @@ https://poodaeng.vercel.app/
 </tr>
 <tr>
 <th width="70">원인</th>
-<td>하단 Foorter에서 '<'img src=’image.png’'>' 의 형태로 했을 때, 이미지가 커질수록 깨지는 현상이 발생함</td>
+<td>하단 Foorter에서 '<img src=’image.png’>' 의 형태로 했을 때, 이미지가 커질수록 깨지는 현상이 발생함</td>
 </tr>
 <th>해결</th>
 <td>각 이미지들을 svg 로 받아 ReactComponent화시켜서 각각 적용
