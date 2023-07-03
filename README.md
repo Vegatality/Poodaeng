@@ -11,7 +11,7 @@
 [![푸댕 유튜브](http://img.youtube.com/vi/qkDX3ZYx_NI/0.jpg)](https://youtu.be/8FlGsRvcaRw)
 
 
-## 작업공간(S.A)
+
 https://www.notion.so/Poo-Daeng-b6a9dfbab28e4295b889bf0040ff1b21
 
 ## 👨‍👨‍👦 FE 팀원 👨‍👨‍👦
@@ -42,7 +42,7 @@ https://www.notion.so/Poo-Daeng-b6a9dfbab28e4295b889bf0040ff1b21
 
 <br>
 
-## 📒 푸댕 S.A 보러가기 📒
+## 📒 작업공간(S.A) 📒
 
 ![푸댕 S.A](https://github.com/hanghae-99-real-project/back-end/assets/125964794/e5472469-3da5-4f58-b913-40a43de77010)
 [푸댕 S.A](https://www.notion.so/Poo-Daeng-b6a9dfbab28e4295b889bf0040ff1b21)
@@ -56,6 +56,11 @@ https://www.notion.so/Poo-Daeng-b6a9dfbab28e4295b889bf0040ff1b21
 
 <br>
 
+## 🛠 Project Architecture 🛠
+
+![KakaoTalk_20230622_174339706](https://github.com/hanghae-99-real-project/back-end/assets/125964794/c8d5c614-ae6f-4c1d-9e09-1b1ff691802f)
+
+<br>
 
 
 ## 기여
