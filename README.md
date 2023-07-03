@@ -22,7 +22,8 @@ https://www.notion.so/Poo-Daeng-b6a9dfbab28e4295b889bf0040ff1b21
 | FE   | [서대식](https://github.com/ringkoo)                   |
 
 
-## 사용한 기술 스택
+
+## ⚙️ 사용한 기술 스택 ⚙️
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-FF4154?logo=tanstack&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
