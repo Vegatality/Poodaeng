@@ -13,6 +13,8 @@
 ## 🔗서비스 링크 ##
 https://poodaeng.vercel.app/
 
+<br/>
+
 ## 👨‍👨‍👦 FE 팀원 👨‍👨‍👦
 
 | Role | GitHub                                                |
@@ -20,7 +22,7 @@ https://poodaeng.vercel.app/
 | FE   | [조형민](https://github.com/Vegatality)                |
 | FE   | [서대식](https://github.com/ringkoo)                   |
 
-
+<br/>
 
 ## ⚙️ 사용한 기술 스택 ⚙️
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
