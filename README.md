@@ -103,8 +103,7 @@ https://poodaeng.vercel.app/
   - 프로필 수정
 
 조형민
-- 로그인
-- 회원가입(번호, 소셜)
+- 로그인 & 회원가입(번호, 소셜)
 - 실종 반려견 게시글 CRUD
 - 게시글 댓글&대댓글 CRUD
 - 게시글 header footer
