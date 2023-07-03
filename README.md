@@ -55,7 +55,7 @@
 
 ## 🛠 Project Architecture 🛠
 
-![KakaoTalk_20230622_174339706](https://github.com/hanghae-99-real-project/back-end/assets/125964794/c8d5c614-ae6f-4c1d-9e09-1b1ff691802f)
+![KakaoTalk_20230622_174339706](https://github.com/Vegatality/Studyarea/assets/123563774/08b77e81-e566-4757-9251-3f1d7ad2da27)
 
 <br>
 
