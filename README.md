@@ -115,7 +115,7 @@ https://poodaeng.vercel.app/
 - 마이페이지 내가 작성한 게시글, 북마크
 
 ### 트러블 슈팅
-<ul>
+<ol>
 <li>
 <table width='800px'>
 <tr>
@@ -133,10 +133,10 @@ https://poodaeng.vercel.app/
 </tr>
 </table>
 </li>
-</ul>
+</ol>
 
 <br />
-<ul>
+<ol>
 <li>
 <table width='800px'>
 <tr>
@@ -152,7 +152,7 @@ https://poodaeng.vercel.app/
 </tr>
 </table>
 </li>
-</ul>
+</ol>
  
 ```jsx
 import { ReactComponent as PooBox } from '../assets/images/Poobox.svg';
@@ -163,7 +163,7 @@ import { ReactComponent as ProfileIcon } from '../assets/images/myprofile.svg';
 ```
 
 <br />
-<ul>
+<ol>
 <li>
 <table width='800px'>
 <tr>
@@ -184,4 +184,4 @@ import { ReactComponent as ProfileIcon } from '../assets/images/myprofile.svg';
 </tr>
 </table>
 </li>
-</ul>
+</ol>
