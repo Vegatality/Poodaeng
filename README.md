@@ -11,7 +11,7 @@
 [![푸댕 유튜브](http://img.youtube.com/vi/qkDX3ZYx_NI/0.jpg)](https://youtu.be/8FlGsRvcaRw)
 
 
-## 작업공간
+## 작업공간(S.A)
 https://www.notion.so/Poo-Daeng-b6a9dfbab28e4295b889bf0040ff1b21
 
 ## 👨‍👨‍👦 FE 팀원 👨‍👨‍👦
@@ -40,17 +40,22 @@ https://www.notion.so/Poo-Daeng-b6a9dfbab28e4295b889bf0040ff1b21
 ![Kakao Map](https://img.shields.io/badge/-Kakao%20Map-FFCD00?logo=kakaomap&logoColor=white)
 ![Tmap](https://img.shields.io/badge/-Tmap-EE3D34?logo=tmap&logoColor=white)
 
+<br>
 
-### 구성 요소
+## 📒 푸댕 S.A 보러가기 📒
 
-* React.js
-* Redux toolkit
-* Tailwind CSS
-* React Router Dom
-* zustand
-* axios
-* Kakaomap API
-* Tmap API
+![푸댕 S.A](https://github.com/hanghae-99-real-project/back-end/assets/125964794/e5472469-3da5-4f58-b913-40a43de77010)
+[푸댕 S.A](https://www.notion.so/Poo-Daeng-b6a9dfbab28e4295b889bf0040ff1b21)
+
+<br>
+
+## 🎨 디자인 🎨
+
+![푸댕 S.A](https://github.com/hanghae-99-real-project/back-end/assets/125964794/e5472469-3da5-4f58-b913-40a43de77010)
+[푸댕 디자인](https://www.figma.com/file/pBnEtEMaoNtBYKXftbYfKW/%ED%91%B8%EB%8C%95-%EB%94%94%EC%9E%90%EC%9D%B8?type=design&node-id=0-1&mode=design&t=Ik37bQY8HltMvWNF-0)
+
+<br>
+
 
 
 ## 기여
