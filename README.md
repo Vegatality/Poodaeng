@@ -127,10 +127,6 @@ https://poodaeng.vercel.app/
 </tr>
 <tr>
 <th>해결</th>
-<td>useEffect 문 안에 ScrollTo를 이용하여 진입 시 맨 바닥으로 옮기려는 시도를 했으나, 여전히 이전 채팅 목록을 불러와서 실패.</td>
-</tr>
-<tr>
-<th>해결</th>
 <td>- formdata는 기본적으로 form tag 안에 넣은부분만 들어가는걸 확인
     - Blob을 사용하니, 서버에서 원하는 형식이 아닌걸 서버측 테스트 로그를 보고 확인 후 form data로 모든 데이터를 전달
     - 서버쪽에서 refreshtoken을 받는 코드에서 오류가 있었음을 확인 후 수정했더니, 정상 작동함</td>
@@ -138,13 +134,33 @@ https://poodaeng.vercel.app/
 </table>
 </li>
 </ul>
-1. 푸박스 등록 (이미지 , 위치 좌표 , 내용) 을 하는데 500, 419, 400, 에러가 뜸. 
-- 원인
-    - 서버에 전송하는 post 형식과 서버에서 받는 형식이 달라서 정상적으로 전송되지않음
-- 해결
-    - formdata는 기본적으로 form tag 안에 넣은부분만 들어가는걸 확인
-    - Blob을 사용하니, 서버에서 원하는 형식이 아닌걸 서버측 테스트 로그를 보고 확인 후 form data로 모든 데이터를 전달
-    - 서버쪽에서 refreshtoken을 받는 코드에서 오류가 있었음을 확인 후 수정했더니, 정상 작동함
+
+<ul>
+<li>
+<table width='800px'>
+<tr>
+<th colspan="2" align="center" height="50">디자인된 아이콘이 깨지는 현상</th>
+</tr>
+<tr>
+<th width="70">원인</th>
+<td>하단 Foorter에서 `<img src=’image.png’>` 의 형태로 했을 때, 이미지가 커질수록 깨지는 현상이 발생함</td>
+</tr>
+<th>해결</th>
+<td>각 이미지들을 svg 로 받아 ReactComponent화시켜서 각각 적용
+ ```jsx
+    import { ReactComponent as PooBox } from '../assets/images/Poobox.svg';
+    import { ReactComponent as HomeIcon } from '../assets/images/home.svg';
+    import { ReactComponent as MapIcon } from '../assets/images/Map.svg';
+    import { ReactComponent as DaengIcon } from '../assets/images/daengfinder.svg';
+    import { ReactComponent as ProfileIcon } from '../assets/images/myprofile.svg';
+    ```
+</td>
+</tr>
+</table>
+</li>
+</ul>
+
+
 2.  디자인된 아이콘이 깨지는 현상
 - 원인
     - 하단 Foorter에서 `<img src=’image.png’>` 의 형태로 했을 때, 이미지가 커질수록 깨지는 현상이 발생함
