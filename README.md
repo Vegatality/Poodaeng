@@ -14,8 +14,8 @@ https://www.notion.so/Poo-Daeng-b6a9dfbab28e4295b889bf0040ff1b21
 
 | Role | GitHub                                                |
 | ---- | ----------------------------------------------------- |
-| FE | [조형민](https://github.com/Vegatality)|
-| FE   | [서대식](https://github.com/ringkoo)          |
+| FE   | [조형민](https://github.com/Vegatality)                |
+| FE   | [서대식](https://github.com/ringkoo)                   |
 
 
 ## 사용한 기술 스택
