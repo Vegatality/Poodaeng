@@ -11,8 +11,6 @@
 
 
 
-https://www.notion.so/Poo-Daeng-b6a9dfbab28e4295b889bf0040ff1b21
-
 ## 👨‍👨‍👦 FE 팀원 👨‍👨‍👦
 
 | Role | GitHub                                                |
