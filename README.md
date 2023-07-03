@@ -147,6 +147,13 @@ https://poodaeng.vercel.app/
 </tr>
 <th>해결</th>
 <td>각 이미지들을 svg 로 받아 ReactComponent화시켜서 각각 적용
+ ```jsx
+import { ReactComponent as PooBox } from '../assets/images/Poobox.svg';
+import { ReactComponent as HomeIcon } from '../assets/images/home.svg';
+import { ReactComponent as MapIcon } from '../assets/images/Map.svg';
+import { ReactComponent as DaengIcon } from '../assets/images/daengfinder.svg';
+import { ReactComponent as ProfileIcon } from '../assets/images/myprofile.svg';
+```
 </td>
 </tr>
 </table>
@@ -154,13 +161,7 @@ https://poodaeng.vercel.app/
 </ul>
  
  
-```jsx
-import { ReactComponent as PooBox } from '../assets/images/Poobox.svg';
-import { ReactComponent as HomeIcon } from '../assets/images/home.svg';
-import { ReactComponent as MapIcon } from '../assets/images/Map.svg';
-import { ReactComponent as DaengIcon } from '../assets/images/daengfinder.svg';
-import { ReactComponent as ProfileIcon } from '../assets/images/myprofile.svg';
-```
+
 
 
 
