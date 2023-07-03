@@ -5,11 +5,9 @@
 푸댕은 서울시의 반려견 배변 시설 위치와 길 안내, 반려견의 실종 위치와 사용자들의 제보를 제공하는 서비스입니다.
 ![image](https://github.com/hanghae-99-real-project/front-end/assets/123563774/f5818931-6153-48c7-8645-04e331150382)
  
-## 푸댕(PooDaeng) 소개 ![YoutubeAnimationGIF (2)](https://github.com/Vegatality/Poodaeng/assets/123563774/edaa8478-dece-43fd-8f7c-123165d2763a)
-YOUTUBE ##
-
+## 푸댕(PooDaeng) 소개 ##
 [![푸댕 유튜브](http://img.youtube.com/vi/qkDX3ZYx_NI/0.jpg)](https://youtu.be/8FlGsRvcaRw)
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8FlGsRvcaRw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 🔗서비스 링크 ##
 https://poodaeng.vercel.app/
