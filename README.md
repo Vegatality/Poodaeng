@@ -10,6 +10,14 @@
 ## 작업공간
 https://www.notion.so/Poo-Daeng-b6a9dfbab28e4295b889bf0040ff1b21
 
+## 👨‍👨‍👦 FE 팀원 👨‍👨‍👦
+
+| Role | GitHub                                                |
+| ---- | ----------------------------------------------------- |
+| FE   | [서대식](https://github.com/ringkoo)          |
+| FE   | [조형민](https://github.com/Vegatality)                |
+
+
 ## 사용한 기술 스택
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-FF4154?logo=tanstack&logoColor=white)
