@@ -160,26 +160,31 @@ import { ReactComponent as MapIcon } from '../assets/images/Map.svg';
 import { ReactComponent as DaengIcon } from '../assets/images/daengfinder.svg';
 import { ReactComponent as ProfileIcon } from '../assets/images/myprofile.svg';
 ```
- 
+
+<ul>
+<li>
+<table width='800px'>
+<tr>
+<th colspan="2" align="center" height="50">네비게이션 기능 구현시 tmap api호환성 문제</th>
+</tr>
+<tr>
+<th width="70">원인</th>
+<td>Tmap API에서의 도보 길찾기 기능을 사용하기 위해 kakao API 를 모두 사용하지않고 Tmap API 만 사용하기로 함.
+    그러나 Tmap API는 index.html 로만 구성되어있어, React에서 컴포넌트화하여 불러 올 수 없었음</td>
+</tr>
+<tr>
+<th>시도</th>
+<td>html 코드를 보고 React 로 리펙토링</td>
+</tr>
+<tr>
+<th>해결</th>
+<td>기존 만들어진 Kakao API의 기능들은 그대로 가져가고 Tmap API 에서는 길찾기 기능만 사용함. Tmap API 에서 제공하는 html코드중에서 <script>코드를 리펙토링하여 React component로 사용함</td>
+</tr>
+</table>
+</li>
+</ul>
 
 
-
-
-2.  디자인된 아이콘이 깨지는 현상
-- 원인
-    - 하단 Foorter에서 `<img src=’image.png’>` 의 형태로 했을 때, 이미지가 커질수록 깨지는 현상이 발생함
-- 해결
-    - 각 이미지들을 svg 로 받아 각각 적용
-    
-    ```jsx
-    import { ReactComponent as PooBox } from '../assets/images/Poobox.svg';
-    import { ReactComponent as HomeIcon } from '../assets/images/home.svg';
-    import { ReactComponent as MapIcon } from '../assets/images/Map.svg';
-    import { ReactComponent as DaengIcon } from '../assets/images/daengfinder.svg';
-    import { ReactComponent as ProfileIcon } from '../assets/images/myprofile.svg';
-    ```
-    
-    - 추가적으로 hover 이벤트를 적용하여 마우스 오버 시 테두리 색상을 변경하도록 추가함
 3.  네비게이션 기능 구현시 tmap api호환성 문제
 
 - 원인 
