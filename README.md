@@ -7,9 +7,8 @@
 ![image](https://github.com/hanghae-99-real-project/front-end/assets/123563774/f5818931-6153-48c7-8645-04e331150382)
  
 
-## 시작하기
-
-이 섹션에서는 프로젝트를 시작하는 방법에 대해 설명합니다.
+## 작업공간
+https://www.notion.so/Poo-Daeng-b6a9dfbab28e4295b889bf0040ff1b21
 
 ## 사용한 기술 스택
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
