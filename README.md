@@ -1,4 +1,4 @@
-# 프로젝트 이름 : <span style={{fontColor: "red"}}>푸댕</span>
+# 프로젝트 이름 : <span style={{Color: "red"}}>푸댕</span>
 
 
 
