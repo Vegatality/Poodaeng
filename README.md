@@ -135,6 +135,7 @@ https://poodaeng.vercel.app/
 </li>
 </ul>
 
+<br />
 <ul>
 <li>
 <table width='800px'>
@@ -161,6 +162,7 @@ import { ReactComponent as DaengIcon } from '../assets/images/daengfinder.svg';
 import { ReactComponent as ProfileIcon } from '../assets/images/myprofile.svg';
 ```
 
+<br />
 <ul>
 <li>
 <table width='800px'>
