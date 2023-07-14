@@ -113,7 +113,10 @@ https://poodaeng.vercel.app/
 - 마이페이지 내가 작성한 게시글, 북마크
 
 <br />
+
+
 ## 트러블 슈팅 ##
+
 <ol>
 <li>
 <table width='800px'>
